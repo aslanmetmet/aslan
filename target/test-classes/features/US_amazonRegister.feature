@@ -11,3 +11,4 @@ Feature:user sign up amazon webpages
     And user enter password "asdf1234"
     And user enter re-password "asdf1234"
     And user click to continue checkbox
+    

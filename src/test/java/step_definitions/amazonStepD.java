@@ -41,4 +41,5 @@ public class amazonStepD {
     @And("user click to continue checkbox")
     public void userClickToContinueCheckbox() {login.cont.click();
     }
+
 }
